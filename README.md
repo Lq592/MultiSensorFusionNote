@@ -11,7 +11,7 @@
 本仓库是在**TurtleZhong**的[注释版代码](https://github.com/TurtleZhong/msckf_mono)基础上进一步补充个人理解
 
 笔记包含Tex数学公式：
-- 建议使用Chrome插件[TeX All the Things](https://chrome.google.com/webstore/detail/tex-all-the-things/cbimabofgmfdkicghcadidpemeenbffn)渲染TeX公式
+- 最好直接clone到本地用makdown编辑编辑器[Typora](https://typora.io)打开体验最佳, 或者也可以使用Chrome插件[TeX All the Things](https://chrome.google.com/webstore/detail/tex-all-the-things/cbimabofgmfdkicghcadidpemeenbffn)渲染TeX公式,不过部分公式太过复杂无法渲染
 - 如需本地编辑，建议使用[Typora](https://typora.io) （ 非常赞的markdown编辑器）
 
 
