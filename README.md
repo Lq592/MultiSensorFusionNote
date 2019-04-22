@@ -1,3 +1,11 @@
+
+### 笔记
+
+- [S-MSCKF note](note.md)
+
+
+
+
 ### 说明
 
 本仓库是在**TurtleZhong**的[注释版代码](https://github.com/TurtleZhong/msckf_mono)基础上进一步补充个人理解
